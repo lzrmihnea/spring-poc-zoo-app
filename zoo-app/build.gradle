@@ -15,6 +15,7 @@ dependencies {
 
     compile(group: 'org.springframework.boot', name: 'spring-boot-autoconfigure', version: '1.4.7.RELEASE')
     compile(group: 'org.springframework', name: 'spring-tx', version: '4.2.7.RELEASE')
+    compile(group: 'org.springframework', name: 'spring-web', version: '4.2.7.RELEASE')
 
     compile(group: 'com.zaxxer', name: 'HikariCP', version: '2.4.4')
     compile(group: 'org.mybatis', name: 'mybatis', version: '3.3.1')
